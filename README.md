@@ -1,6 +1,7 @@
 # Discord News Bot & Web Crawler
 > This is the bot and web crawler for GEN2002X Sudox Project
 
+> Currently the web crawler will only collect data from [https://www.scamalert.sg/]
 ## Folder Structure
 
 - `DiscordNewsBot`
